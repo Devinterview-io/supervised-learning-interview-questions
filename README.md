@@ -1,4 +1,4 @@
-# 70 Fundamental Supervised Learning Interview Questions in 2025
+# 70 Fundamental Supervised Learning Interview Questions in 2026
 
 <div>
 <p align="center">
